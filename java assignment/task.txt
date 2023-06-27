@@ -1,0 +1,17 @@
+# -------Input----- 
+# Enter Emp : Joy
+# Enter Emp (Monthly)  Salary : 25000 
+# Enter Leave : 6
+# Month : 3
+# Year : 2023
+# TDS : 8
+# ------OutPut------ 
+# Name Emp : Joy 
+# Monthly  Salary: 25000 
+# Leave Amount : 4838.70 
+# Date : 3/2023
+# TDS Amount : 2000
+# CTC (Yearly Salary) : 300000  
+# Final Salary : 
+
+
